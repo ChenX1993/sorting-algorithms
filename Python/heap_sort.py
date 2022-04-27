@@ -25,6 +25,6 @@ def heapify(arr, len, root):
 
 
 if __name__ == "__main__":
-    arr = [4, 3, 2, 5, 10, 2]
+    arr = [5, 2, 8, 3, 6, 1]
     heap_sort(arr)
     print(arr)
