@@ -2,7 +2,7 @@
 
 ## Comparison
 
-| Sorting Algorithm | Time Complexity | Best       | Worest     | Time Complexity | In Place/Out Place | Stability |
+| Sorting Algorithm | Time Complexity | Best       | Worest     | Space Complexity | In Place/Out Place | Stability |
 | ----------------- | --------------- | ---------- | ---------- | --------------- | ------------------ | --------- |
 | Bubble Sort       | O(n^2)          | O(n)       | O(n^2)     | O(1)            | In place           | Stable    |
 | Selection Sort    | O(n^2)          | O(n^2)     | O(n^2)     | O(1)            | In place           | Instable  |
