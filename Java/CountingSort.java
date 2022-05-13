@@ -24,7 +24,7 @@ class CountingSort {
         }
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         CountingSort cs = new CountingSort();
         char[] arr = { 'b', 'b', 'c', 'a', 'c', 'e' };
         cs.sort(arr);
